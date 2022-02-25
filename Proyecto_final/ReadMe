@@ -1,0 +1,3 @@
+A continuación adjunto un programa demodulador, junto a un audio que se puede utilizar de ejemplo.
+
+Para realizar una prueba con el audio llamado "TomYJerry.wav" desde consola, el programa solicitará el nombre del audio sin exteción, debe de escribir solamente "TomYJerry"
